@@ -19,6 +19,7 @@ Example output
 
 ```bash
 sudo ./whogoesthere.sh
-or
+```
+```bash
 ./whogoesthere.sh
 ```

@@ -12,6 +12,7 @@ I find this useful for quick basic routine checks when working across multiple s
 - Extracts un-commented, active tasks from system crontabs.
 - Prompts option to save the output to a .txt.
 
+Example output
 ![Who Goes There? example output](images/example-output.png)
 
 ## Usage

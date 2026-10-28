@@ -19,5 +19,6 @@ Example output
 
 ```bash
 sudo ./whogoesthere.sh
+or
+./whogoesthere.sh
 ```
-*Note: Running with sudo is recommended to ensure complete output (i.e. listening ports and root SSH key checks).*

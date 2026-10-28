@@ -2,8 +2,6 @@
 
 A minimal bash script for quick Linux system auditing and user discovery. 
 
-## Features
-
 - Displays current time configurations and the active user context.
 - Lists accounts with root privileges (UID 0) and users with interactive shells.
 - Extracts currently listening TCP/UDP ports and active processes.
